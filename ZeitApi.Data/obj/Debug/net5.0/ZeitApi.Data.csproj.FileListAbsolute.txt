@@ -1,0 +1,15 @@
+C:\Users\kraft\Desktop\meine_Programme\projects\ASP.NET-Web-Api\ZeitApi\ZeitApi.Data\bin\Debug\net5.0\ZeitApi.Data.deps.json
+C:\Users\kraft\Desktop\meine_Programme\projects\ASP.NET-Web-Api\ZeitApi\ZeitApi.Data\bin\Debug\net5.0\ZeitApi.Data.runtimeconfig.json
+C:\Users\kraft\Desktop\meine_Programme\projects\ASP.NET-Web-Api\ZeitApi\ZeitApi.Data\bin\Debug\net5.0\ZeitApi.Data.runtimeconfig.dev.json
+C:\Users\kraft\Desktop\meine_Programme\projects\ASP.NET-Web-Api\ZeitApi\ZeitApi.Data\bin\Debug\net5.0\ZeitApi.Data.dll
+C:\Users\kraft\Desktop\meine_Programme\projects\ASP.NET-Web-Api\ZeitApi\ZeitApi.Data\bin\Debug\net5.0\ref\ZeitApi.Data.dll
+C:\Users\kraft\Desktop\meine_Programme\projects\ASP.NET-Web-Api\ZeitApi\ZeitApi.Data\bin\Debug\net5.0\ZeitApi.Data.pdb
+C:\Users\kraft\Desktop\meine_Programme\projects\ASP.NET-Web-Api\ZeitApi\ZeitApi.Data\obj\Debug\net5.0\ZeitApi.Data.csproj.AssemblyReference.cache
+C:\Users\kraft\Desktop\meine_Programme\projects\ASP.NET-Web-Api\ZeitApi\ZeitApi.Data\obj\Debug\net5.0\ZeitApi.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kraft\Desktop\meine_Programme\projects\ASP.NET-Web-Api\ZeitApi\ZeitApi.Data\obj\Debug\net5.0\ZeitApi.Data.AssemblyInfoInputs.cache
+C:\Users\kraft\Desktop\meine_Programme\projects\ASP.NET-Web-Api\ZeitApi\ZeitApi.Data\obj\Debug\net5.0\ZeitApi.Data.AssemblyInfo.cs
+C:\Users\kraft\Desktop\meine_Programme\projects\ASP.NET-Web-Api\ZeitApi\ZeitApi.Data\obj\Debug\net5.0\ZeitApi.Data.csproj.CoreCompileInputs.cache
+C:\Users\kraft\Desktop\meine_Programme\projects\ASP.NET-Web-Api\ZeitApi\ZeitApi.Data\obj\Debug\net5.0\ZeitApi.Data.dll
+C:\Users\kraft\Desktop\meine_Programme\projects\ASP.NET-Web-Api\ZeitApi\ZeitApi.Data\obj\Debug\net5.0\ref\ZeitApi.Data.dll
+C:\Users\kraft\Desktop\meine_Programme\projects\ASP.NET-Web-Api\ZeitApi\ZeitApi.Data\obj\Debug\net5.0\ZeitApi.Data.pdb
+C:\Users\kraft\Desktop\meine_Programme\projects\ASP.NET-Web-Api\ZeitApi\ZeitApi.Data\obj\Debug\net5.0\ZeitApi.Data.genruntimeconfig.cache
